@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aheingaegi.copper-engine.org/sitemap.xml
